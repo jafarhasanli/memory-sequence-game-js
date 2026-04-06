@@ -22,6 +22,15 @@ The number of circles can be adjusted with a slider before starting the game. Af
 
 ---
 
+---
+
+## 🎮 Play the Game Online
+
+You can play the game directly in your browser without downloading anything:
+
+👉 **[Click here to play](https://jafarhasanli.github.io/memory-sequence-game-js/)**
+
+---
 
 # Features
 
